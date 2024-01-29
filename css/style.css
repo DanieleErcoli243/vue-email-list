@@ -11,9 +11,13 @@
 #root{
    width: 100vw;
    height: 100vh;
+   padding: 40px 20px 0 20px;
 }
 
 ul{
     list-style-type: none;
 }
 
+li{
+    margin-bottom: 10px;
+}

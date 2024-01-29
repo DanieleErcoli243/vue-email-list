@@ -20,7 +20,7 @@
     <body>
         <div id="root">
             <ul>
-                <li></li>
+                <li v-for="(address, i) in addresses" :key="i">{{ address }}</li>
             </ul>
         </div>
         
