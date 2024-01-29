@@ -20,7 +20,7 @@
     <body>
         <div id="root">
             <ul>
-                <li v-for="(address, i) in addresses" :key="i">{{ address }}</li>
+                <li v-for="(address, i) in addresses" :key="i" v-if="addresses.length === 10">{{ address }}</li>
             </ul>
         </div>
         
