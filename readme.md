@@ -1,3 +1,7 @@
+E-mail list
+This project aims to practice axios call to the api. Boolean provided an api and we had to make a call to print a list of ten random e-mail addresses, showing them after they were generated.
+
+
 @qui
 Ciao ragazzi,
 Esercizio di oggi: Vue Email List
